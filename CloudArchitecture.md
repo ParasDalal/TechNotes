@@ -10,7 +10,7 @@
 - If new machine (resource) is available, inform load balancer, so that the new resource can be used
 - Can support auto-scaling based on the load on the existing resources
 
-
+![02 MicroservicesMyths](C:\SoftProjects\TechNotes\CloudArchitecture.assets\02 MicroservicesMyths.png)
 
 ### Overall Architecture:
 
