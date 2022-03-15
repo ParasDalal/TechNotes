@@ -10,7 +10,7 @@
 - If new machine (resource) is available, inform load balancer, so that the new resource can be used
 - Can support auto-scaling based on the load on the existing resources
 
-
+![02_MicroservicesMyths](CloudArchitecture.assets/02_MicroservicesMyths.png)
 
 ### Overall Architecture:
 
@@ -22,9 +22,16 @@ You may need to separate services for various reasons
 -	More than one clients want to use the same service (in which case, we can separate it as a service) We can version the service in case changes are needed
 -	May need different version of technology to be loaded for different version of services 
 
-Autoscale services
+### Autoscale services![03_AutoscalingServiceInstances](CloudArchitecture.assets/03_AutoscalingServiceInstances.png)
+
 - 	Check the queued messages and scale up if the queue is having larger backlog
 -	Check resource usage and scale up if resource usage is higher
 -	Based on schedule/load estimate, proactively upscale
 
 ### 12factor.net
+
+![04_12Factor-1](CloudArchitecture.assets/04_12Factor-1.png)
+
+![05_12Factor-2](CloudArchitecture.assets/05_12Factor-2.png)
+
+![06_12Factor-3](CloudArchitecture.assets/06_12Factor-3.png)
