@@ -1,6 +1,7 @@
 ### Orchesterator:
 
-- ![01 ReasonsToSplitMicroservices](CloudArchitecture.assets/01 ReasonsToSplitMicroservices.png)
+![01 ReasonsToSplitMicroservices](CloudArchitecture.assets/01 ReasonsToSplitMicroservices.png)
+
 - Manages cluster of hardware and their lifecycles
 - Manages the health monitoring of various things running
 - Manage scale - add/remove instances of the services
