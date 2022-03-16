@@ -35,3 +35,5 @@ You may need to separate services for various reasons
 ![05_12Factor-2](CloudArchitecture.assets/05_12Factor-2.png)
 
 ![06_12Factor-3](CloudArchitecture.assets/06_12Factor-3.png)
+
+This is new section
