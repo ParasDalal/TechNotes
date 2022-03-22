@@ -36,4 +36,50 @@ You may need to separate services for various reasons
 
 ![06_12Factor-3](CloudArchitecture.assets/06_12Factor-3.png)
 
-This is new section
+![07_Container1](CloudArchitecture.assets/07_Container1.png)
+
+![08_Container2](CloudArchitecture.assets/08_Container2.png)
+
+![09_Container3](CloudArchitecture.assets/09_Container3.png)
+
+![](CloudArchitecture.assets/10_Container4.png)
+
+![](CloudArchitecture.assets/11_Container5.png)
+
+![](CloudArchitecture.assets/12_Container6.png)
+
+![](CloudArchitecture.assets/13_Container7.png)
+
+![](CloudArchitecture.assets/14_Container8.png)
+
+![](CloudArchitecture.assets/15_CI_CD1.png)
+
+
+
+### Networking:
+
+![](CloudArchitecture.assets/16_NetworkingFallacies.png)
+
+![](CloudArchitecture.assets/17_ServiceEndPoints.png)
+
+![](CloudArchitecture.assets/18_ServiceAvailability.png)
+
+![](CloudArchitecture.assets/19_ForwardAndReverseProxies.png)
+
+![20_ProxyExample](CloudArchitecture.assets/20_ProxyExample.png)
+
+![21_LoadBalancer](CloudArchitecture.assets/21_LoadBalancer.png)
+
+![21_MonolithToMicroService1](CloudArchitecture.assets/21_MonolithToMicroService1.png)
+
+![22_APIVersioning](CloudArchitecture.assets/22_APIVersioning.png)
+
+![23_Contract](CloudArchitecture.assets/23_Contract.png)
+
+![24_RPCAbstractions](CloudArchitecture.assets/24_RPCAbstractions.png)
+
+![25_FailedOperations](CloudArchitecture.assets/25_FailedOperations.png)
+
+![26_Idempotent1](CloudArchitecture.assets/26_Idempotent1.png)
+
+![27_Idempotent2](CloudArchitecture.assets/27_Idempotent2.png)
