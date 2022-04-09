@@ -1,3 +1,7 @@
 - Cryptography - Communication in the presence of adversaries
 - How to move money without centralized trusted intermediary is what Blockchain about
-- 
+- Read about Lawrence (Larry) Lassig (https://en.wikipedia.org/wiki/Pathetic_dot_theory)
+  - Commercial realities (market)
+  - Technology (Code and architecture)
+  - Legal framework
+  - Social norms
