@@ -1,0 +1,3 @@
+- Create a new Ubuntu server (company = canonical)
+- Ensure that it has public static IP
+- 

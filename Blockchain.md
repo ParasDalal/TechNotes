@@ -49,6 +49,17 @@
 
 - Ethereum - has smart contracts
 
+- Bitcoin is a transaction ledger, but Ethereum is a balance ledger
+
+- Good ledger
+  - Immutable
+  - Timestamp
+  - Record of parties of the transaction or who has the balance
+  - Accuracy
+  - Description of transaction
+  - 
+
+
 Sources:
 
 - https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business

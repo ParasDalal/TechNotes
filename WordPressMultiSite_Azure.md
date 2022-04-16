@@ -94,6 +94,11 @@
   - Run command "sudo ./bncert-tool"
   - Provide list of all the sites (without www) separated by space
   - Also when asked question to automatically add for "www", say yes
-  - 
+
+- Forward all the HTTP traffic to HTTPS 
+
+  - https://docs.bitnami.com/general/infrastructure/lamp/administration/force-https-apache/
+
+- 
 
   
