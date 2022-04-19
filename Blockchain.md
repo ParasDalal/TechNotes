@@ -59,6 +59,28 @@
   - Description of transaction
   - 
 
+Introduction to Blockchain
+-	Distributed database that is shared among the nodes of a computer network
+-	Guarantees the fidelity and security of a record of data
+-	Does not need a trusted third party for such guarantee
+-	Information is made up of "blocks" (with certain storage capacities)
+-	Once the block is full, it is closed and linked to previously filled block
+	That is why the name Block-chain MT
+-	Each block is given exact timestamp when it is added to the chain
+-	Data once entered cannot be changed
+-	Data is secured by
+		Proof of work - use of hash (one way function)
+		Proof of Stake - various parties validates the block
+		Proof of Burn - Give the actual coin to get the right to create block
+Current uses of Blockchain at various places
+-	Crypto currencies
+	Bitcoin (uses SHA-256 hash)
+-	Any kind of ledger of transactions (Distributed ledger technology DLT)
+-	Decentralized finance (DeFi)
+-	Non-fungible tokens (NFTs)
+-	Smart contracts
+-	
+Possible relevance of it for Bessemer
 
 Sources:
 
