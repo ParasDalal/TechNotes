@@ -1,0 +1,7 @@
+Recycle material |Hash| Lego Red
+
+Recycle material change |Hash| Lego Blue
+
+
+Tran <nonce> |Hash| Lego Red     --> Proof of work
+Tran + published nonce | Hash | Logo Red
